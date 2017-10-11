@@ -1,0 +1,16 @@
+{
+  "name": "tsignal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "author": {
+    "name": "Patrik Šimunič",
+    "email": "patriksimunic@hotmail.com"
+  },
+  "scripts": {
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.5.3"
+  }
+}
